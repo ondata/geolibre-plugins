@@ -11,5 +11,6 @@
     "sha256": "bcbe170759a447f7d975be8f7259f91d38a1da4c1ff132cd382c78688e92c42d"
   },
   "categories": ["Data"],
+  "publishableSettings": true,
   "minGeoLibreVersion": "3.2.0"
 }
