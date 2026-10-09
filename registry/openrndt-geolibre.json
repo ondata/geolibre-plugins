@@ -1,7 +1,7 @@
 {
   "id": "openrndt-geolibre",
   "name": "RNDT catalogue",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Search the Italian national catalogue of spatial data (RNDT) and add its WMS/WFS services to the map.",
   "author": "onData",
   "homepage": "https://github.com/ondata/openrndt-geolibre",
@@ -10,8 +10,8 @@
   "license": "MIT",
   "manifestUrl": "plugins/openrndt-geolibre/plugin.json",
   "source": {
-    "url": "https://github.com/ondata/openrndt-geolibre/releases/download/v0.3.5/openrndt-geolibre-0.3.5.zip",
-    "sha256": "c8142db4ee0d5210041371140789b763762a15a6f751523158d17b5c72c0e1cc"
+    "url": "https://github.com/ondata/openrndt-geolibre/releases/download/v0.3.6/openrndt-geolibre-0.3.6.zip",
+    "sha256": "c2eda84e7ebae49cb64085ed785fb934e9c423b0ba4cbdb9dc9454a6a5e7093c"
   },
   "categories": ["Data"],
   "publishableSettings": true,
